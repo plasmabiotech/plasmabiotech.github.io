@@ -215,7 +215,7 @@ a:focus {
 }
 
 .navbar-default.affix {
-  background-color: rgba(45, 45, 45, .85);
+  background-color: rgb(255, 192, 115);
   -moz-transition: background-color 1.5s;
   -webkit-transition: background-color 1.5s;
   transition: background-color 1.5s;
